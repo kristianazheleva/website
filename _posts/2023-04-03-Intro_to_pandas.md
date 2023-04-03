@@ -2,11 +2,8 @@
 layout: post
 title: You're up and running!
 ---
-<div id="container" style="position:relative;">
-<div style="float:left"><h1> Intro to Pandas </h1></div>
-<div style="position:relative; float:right"><img style="height:65px" src ="https://drive.google.com/uc?export=view&id=1EnB0x-fdqMp6I5iMoEBBEuxB_s7AmE2k" />
-</div>
-</div>
+
+
 
 We will now introduce Pandas, one of the most important Python tools when working with data.
 
