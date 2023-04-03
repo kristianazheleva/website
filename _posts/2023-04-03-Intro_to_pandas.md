@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Pandas
 ---
 
-
+![pandas]({{ site.baseurl }}/images/pandas.png)
 
 We will now introduce Pandas, one of the most important Python tools when working with data.
 
